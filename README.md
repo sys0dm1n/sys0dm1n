@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-<!--
-**sys0dm1n/sys0dm1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "DevOps is about humans. DevOps is a set of practices and patterns that turn human capital into high-performance organizational capital." - John Willi
+
+- 🔭 I’m currently working on Digital Transformation by applying Agile and DevOps best practices
+- 🌱 I’m currently learning and enhancing my soft skills to become a better leader
+- ⚡ Fact: Sharing knowledge is one of my best activities
+  <!--
+  **sys0dm1n/sys0dm1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
